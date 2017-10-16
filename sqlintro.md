@@ -1,9 +1,9 @@
-#### SQL Basics and Beyond
+# SQL Basics and Beyond
 
 Here we go through some basic SQL Queries and move on to not so basic stuff
 
 
-### Basics
+## Basics
 
 Say we have a table of Employees as below
 
@@ -16,7 +16,7 @@ empno|fullname|age|profession
 
 
 
-## Filters
+### Filters
 Following query will get a particular row with a simple where clause
 
 ```sql
@@ -40,7 +40,7 @@ empno|intime|outtime|nettime
 3|16-oct-2017 08:00:00|16-oct-2017 16:00:00|8
 
 
-## Joins
+### Joins
 Then in order to get basic attendance report with empoyee full name, the query would be made using a [Join](https://en.wikipedia.org/wiki/Join_(SQL)) Clause
 
 ```sql
@@ -60,7 +60,7 @@ first name|18-oct-2017 07:00:00|16-oct-2017 16:00:00|9
 first name|19-oct-2017 08:00:00|16-oct-2017 15:00:00|7
 
 
-## Sort
+### Sort
 We can get the result sorted using [Order by](https://en.wikipedia.org/wiki/Order_by) clause on nettime as an example
 
 ```sql
