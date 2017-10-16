@@ -32,7 +32,7 @@ empno|intime|outtime|nettime
 3|16-oct-2017 08:00:00|16-oct-2017 16:00:00|8
 3|16-oct-2017 08:00:00|16-oct-2017 16:00:00|8
 
-Then in order to get basic attendance report with empoyee full name, the query would be made using a Join Clause
+Then in order to get basic attendance report with empoyee full name, the query would be made using a [Join](https://en.wikipedia.org/wiki/Join_(SQL)) Clause
 
 ```sql
 
