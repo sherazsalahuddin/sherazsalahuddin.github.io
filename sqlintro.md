@@ -112,6 +112,3 @@ Following are to be considered when writing paging queries
 
 More to come soon ...
 
-
-
-More to come after this...
