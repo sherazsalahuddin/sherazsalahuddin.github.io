@@ -1,9 +1,8 @@
-# SQL Basics and Beyond
+# About SQL
 
-Here we go through some basic SQL Queries and move on to not so basic stuff
+Here we go through some variations of SQL Queries 
 
 
-## Basics
 
 Say we have a table of Employees as below
 
@@ -109,6 +108,4 @@ Following are to be considered when writing paging queries
 * Adjust these values to also control the page size 
 
 
-
-More to come soon ...
 
