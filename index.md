@@ -11,7 +11,6 @@ Have successfully implemented Projects and provided Solutions for various client
 
 Below is a summary of skills I can be reached out for
 
-* Implement Search Solution using Big Data Technologies
 * Design, Develop Relational and Graph Data Models
 * Process a given dataset by using Big Data Technologies to make it usable for Analysis
 * Migrate Data from across various vendors like Microsoft, Oracle etc.
